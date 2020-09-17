@@ -14,7 +14,7 @@ function displayHomepage() {
 <h3 class="masthead-brand">AMPM</h3>
 <nav class="nav nav-masthead justify-content-center">
   <a class="nav-link active" href="#">Home</a>
-  <a class="nav-link" href="#">Menu</a>
+  <a class="nav-link" href="#" id="a">Menu</a>
   <a class="nav-link" href="#">Contact</a>
 </nav>
 </div>
