@@ -1,3 +1,3 @@
-import {displayHomepage} from './homepage'
+import { displayHomepage } from "./homepage";
 
-window.addEventListener('load', displayHomepage)
+window.addEventListener("load", displayHomepage);
